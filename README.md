@@ -6,3 +6,4 @@ main문 수정: if __name__ == "__main__": 블록에서 필터 파라미터를 �
 오류 처리: cartoon_effect 함수에서 이미지 로드 실패 시 None을 반환하고, 호출하는 쪽에서 None을 받았을 경우 오류 메시지를 출력하도록 했습니다.
 코드 가독성 향상: 변수 이름을 더 명확하게 변경하고, 주석을 추가하여 코드의 가독성을 높였습니다.
 이제 median_blur_ksize, bilateral_filter_d, bilateral_filter_sigma_color, bilateral_filter_sigma_space 변수를 조절하여 카툰 효과의 강도를 변경할 수 있습니다
+<img width="1024" alt="Screenshot 2025-03-25 at 3 00 59 PM" src="https://github.com/user-attachments/assets/77ba54df-6436-486a-aea6-2ab3a3e648e7" />
